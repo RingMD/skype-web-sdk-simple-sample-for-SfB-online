@@ -16,7 +16,7 @@ var config ={
     loginurl : 'https://login.microsoftonline.com/common/oauth2/authorize?response_type=token',//Microsoft OAuth login url for AAD.Fixed
 
     //Action Required : Need to set your app's specific value. Please README.MD file and follow "Update config.js" section.
-    clientid : 'd986ea52-0654-4f89-b6df-ff2bee2f6769',//client id created in Azure AD
+    clientid : '439fb275-3d2a-4e7f-bcb5-f0cdcfeed596',//client id created in Azure AD
     replyurl : 'http://139.59.239.69:8080',//replyurl you set in Azure AD
-    appName : 'ringmd-test'//Application Name registered in Azure AD
+    appName : 'RingMD Enterprise Stg'//Application Name registered in Azure AD
 };
